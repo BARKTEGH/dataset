@@ -10,6 +10,8 @@ test_save_path = "./tmp/test.json"
 
 
 """
+需要开启斯坦福corenlp服务器
+
 输入文件格式为：
 8001	"The most common <e1>audits</e1> were about <e2>waste</e2> and recycling."
 Message-Topic(e1,e2)
